@@ -1,0 +1,25 @@
+# Build artifacts
+AppDir/
+*.AppImage
+
+# Downloaded archives
+electron-*.zip
+node-*.tar.xz
+node-v*/
+appimagetool-*.AppImage
+
+# Temporary files
+*.new
+*.bak
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
