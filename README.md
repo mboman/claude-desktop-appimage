@@ -34,7 +34,7 @@ Before building, you need:
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/claude-desktop-appimage.git
+git clone https://github.com/mboman/claude-desktop-appimage.git
 cd claude-desktop-appimage
 
 # Ensure claude-desktop is built first

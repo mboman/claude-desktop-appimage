@@ -72,5 +72,5 @@ The AppImage version tracks the Claude Desktop version it packages:
 - AppImage 1.0.0 → Claude Desktop 0.14.10
 - Future versions will update based on upstream releases
 
-[1.0.0]: https://github.com/YOUR_USERNAME/claude-desktop-appimage/releases/tag/v1.0.0
-[Unreleased]: https://github.com/YOUR_USERNAME/claude-desktop-appimage/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/mboman/claude-desktop-appimage/releases/tag/v1.0.0
+[Unreleased]: https://github.com/mboman/claude-desktop-appimage/compare/v1.0.0...HEAD

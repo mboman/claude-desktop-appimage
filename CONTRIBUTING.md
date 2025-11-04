@@ -78,7 +78,7 @@ sudo apt install git wget unzip tar  # Debian/Ubuntu
 ```bash
 # Clone both projects
 git clone https://github.com/emsi/claude-desktop.git ~/src/claude-desktop
-git clone https://github.com/YOUR_USERNAME/claude-desktop-appimage.git ~/src/claude-desktop-appimage
+git clone https://github.com/mboman/claude-desktop-appimage.git ~/src/claude-desktop-appimage
 
 # Build claude-desktop first
 cd ~/src/claude-desktop
